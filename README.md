@@ -1,5 +1,3 @@
-# Kaiburr-task6
-
 Created a Jupyter Notebook project to implement Supervised ML Python Project using Linear Regression.
 
 ## Problem statement :
